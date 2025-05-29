@@ -1,5 +1,4 @@
 # myapp
-- ![image](https://github.com/user-attachments/assets/47bbfcdd-cee7-4ae1-90d2-5b4346f3d409)
 
 
 A new Flutter project.
